@@ -1,0 +1,6 @@
+@ASapi_HostAddress = http://localhost:5263
+
+GET {{ASapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
